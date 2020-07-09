@@ -17,6 +17,7 @@ body {
     height: 100vh;
     background: rgba(0, 0, 0, 0.5);
 }
+
 .main-header {
     width: 100%;
     background: #2ddf5c;
@@ -194,4 +195,8 @@ body {
 
 .button:focus {
     outline: none;
+}
+
+.open {
+    display: block !important;
 }
